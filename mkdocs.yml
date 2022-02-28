@@ -1,1 +1,21 @@
-site_name: My Docs
+site_name: AFSVHH Lehrgänge
+site_url: https://clinic.regelkun.de
+theme:
+    name: material
+    logo: assets/images/afsvhh.png
+    palette:
+          primary: red
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+    - admonition
+    - tables
+    - attr_list
+    - md_in_html
+    - pymdownx.details
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format

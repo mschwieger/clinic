@@ -1,3 +1,3 @@
-# clinic.afshh.de
+# clinic.afsvhh.de
 
 Infos für die Clinic
