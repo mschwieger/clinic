@@ -5,13 +5,14 @@ repo_name: mschwieger/clinic
 theme:
     name: material
     logo: assets/images/afsvhh.png
+    favicon: assets/images/favicon.png
     palette:
-          primary: red
+        primary: red
     features:
         - navigation.tabs
 plugins:
     - search:
-        lang: de 
+        lang: de
 markdown_extensions:
     - toc:
         permalink: "#"
@@ -23,5 +24,5 @@ markdown_extensions:
     - pymdownx.superfences:
         custom_fences:
             - name: mermaid
-              class: mermaid
-              format: !!python/name:pymdownx.superfences.fence_code_format
+                class: mermaid
+                format: !!python/name:pymdownx.superfences.fence_code_format
