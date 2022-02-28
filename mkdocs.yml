@@ -1,10 +1,18 @@
 site_name: AFSVHH Lehrgänge
 site_url: https://clinic.regelkun.de
+repo_url: https://github.com/mschwieger/clinic
+repo_name: mschwieger/clinic
 theme:
     name: material
     logo: assets/images/afsvhh.png
     palette:
           primary: red
+    features:
+        - navigation.tabs
+plugins:
+    - search:
+        lang: de 
+
 
 markdown_extensions:
     - toc:

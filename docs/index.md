@@ -1,4 +1,4 @@
-# AFSVHH Gesamtlehrgang 2022
+# Gesamtlehrgang 2022
 
 Hier findest du die gesammelten Informationen zum diesjährigen Lehrgang.
 
