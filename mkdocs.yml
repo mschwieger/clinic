@@ -16,7 +16,7 @@ plugins:
     - search:
         lang: de
     - git-revision-date-localized:
-        enable_creation_date: true
+        enable_creation_date: false 
         fallback_to_build_date: true
         type: iso_datetime
 markdown_extensions:
