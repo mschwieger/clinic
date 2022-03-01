@@ -11,14 +11,14 @@ Samstag 12.03.2022 10-18 Uhr
 | 10:00 -10:55  | Hallo!<br>Regeländerungen             | Jessy                                                                                                   |
 | 11:05 - 12:30 | Illegale Blocks und persönliche Fouls | @Mats S                                                                                                 |
 | 12:30-13:30   | Mittagspause                          |
-| 13:30 - 18:00 | Lizenzlehrgänge                       | B – Mats & Conni <br><br>----------<br><br>C – Florian & Jessy<br><br>----------<br><br>D –Dave & Simon |
+| 13:30 - 18:00 | Lizenzlehrgänge                       | B – Mats & Conni<br>C – Florian & Jessy<br>D –Dave & Simon |
 
 Sonntag 13.03.2022 10-16 Uhr
 
-| Uhrzeit | **Thema**|**Vortragende**
+| Uhrzeit | **Thema** |**Vortragende**|
 
 | --- | --- | --- |
-| 10:00 -10:55 | Lizenzlehrgänge|B – Mats & Conni <br><br>----------<br><br>C – Florian & Jessy<br><br>----------<br><br>D –Dave & Simon |
+| 10:00 -10:55 | Lizenzlehrgänge|B – Mats & Conni<br>C – Florian & Jessy<br>D –Dave & Simon|
 | 11:05 - 12:30 | Prüfungen |
 | 12:30-13:30 | Mittagspause |
 | 13:30 - 16:00 | Gemeinsames | |
