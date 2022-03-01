@@ -1,3 +1,3 @@
 # E Lehrgang 2022
 
-Details folgen
+Details folgen in den nächsten Tagen.
