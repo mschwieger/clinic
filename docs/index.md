@@ -16,7 +16,6 @@ Samstag 12.03.2022 10-18 Uhr
 Sonntag 13.03.2022 10-16 Uhr
 
 | Uhrzeit | **Thema** |**Vortragende**|
-
 | --- | --- | --- |
 | 10:00 -10:55 | Lizenzlehrgänge|B – Mats & Conni<br>C – Florian & Jessy<br>D –Dave & Simon|
 | 11:05 - 12:30 | Prüfungen |
