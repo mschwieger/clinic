@@ -18,7 +18,7 @@ nav:
     - "C.md"
     - "D.md"
     - "E.md"
-    - "Downloads": "https://afsvd.de/downloads/"
+    - "| Downloads": "https://afsvd.de/downloads/"
 
 plugins:
     - search:
