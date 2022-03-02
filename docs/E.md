@@ -29,9 +29,9 @@ Am besten erreichst du es mit der U2 oder U3 bis U-Bahn Schlump oder mit der S-B
 
 -   Wir werden dein **Impfzertifikat** vor Ort überprüfen. Bring also bitte dein Mobiltelefon/deinen Impfpass mit.
 
--   Stell dich bitte auf das **Tragen eine Maske** ein. Wir passen uns auf die örtlichen Begebenheiten (Raumgröße, Lüftungsmöglichkeiten etc.) an.
+-   Stell dich bitte auf das **Tragen eine Maske** ein. Ich warte noch auf aktualisierte Hygieneregeln des Veranstaltungsortes und kann dann mehr dazu sagen.
 
--   Die Räume werden zum Ende des Wochenendes von uns allen gemeinsam **gereinigt und desinfiziert**.
+-   Die Räume werden zum Ende jeden Wochenendes von uns allen gemeinsam **gereinigt und desinfiziert**.
 
 # Vorbereitung
 
