@@ -13,12 +13,12 @@ theme:
     features:
         - navigation.tabs
 nav:
-	- "index.md"
-	- "B.md"
-	- "C.md"
-	- "D.md"
-	- "E.md"
-	- "Downloads": "https://afsvd.de/downloads/"
+    -  "index.md"
+    - "B.md"
+    - "C.md"
+    - "D.md"
+    - "E.md"
+    - "Downloads": "https://afsvd.de/downloads/"
 
 plugins:
     - search:
