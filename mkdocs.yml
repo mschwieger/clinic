@@ -12,6 +12,8 @@ theme:
         primary: red
     features:
         - navigation.tabs
+nav:
+    - Downloads: "https://afsvd.de/downloads/"
 plugins:
     - search:
         lang: de
