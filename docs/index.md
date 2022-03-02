@@ -9,7 +9,7 @@ Samstag 12.03.2022 10-18 Uhr
 | Uhrzeit       | **Thema**                             | **Vortragende**                                                                                         |
 | ------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | 10:00 -10:55  | Hallo!<br>Regeländerungen             | Jessy                                                                                                   |
-| 11:05 - 12:30 | Illegale Blocks und persönliche Fouls | @Mats S                                                                                                 |
+| 11:05 - 12:30 | Illegale Blocks und persönliche Fouls | Mats                                                                                                |
 | 12:30-13:30   | Mittagspause                          |
 | 13:30 - 18:00 | Lizenzlehrgänge                       | B – Mats & Conni<br>C – Florian & Jessy<br>D –Dave & Simon |
 
@@ -31,7 +31,7 @@ Max-Brauer-Schule, [Daimlerstraße 40 in Hamburg-Altona](https://goo.gl/maps/hL1
 
 -   Der gesamte Lehrgang wird unter **2G++** Bedingungen stattfinden. Auch Geboosterte müssen sich also Testen lassen.
 
--   Ein Test am Samstag genügt.
+-   Ein Test am Samstag genügt. Ein Test am Sonntag ist empfohlen.
 
 -   In der näheren Umgebung (10-15 Min zu Fuß) befinden sich mehrere **Testzentren**, wir würden euch aber empfehlen den Test schon unterwegs zu machen.
 
