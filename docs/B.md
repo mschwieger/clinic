@@ -4,7 +4,7 @@
 
 |Zeit     |Thema      |Referent:in  |
 |:---     |:---       |:---         |
-|13:30    |### Kennenlernen|Conni und Mats|
+|13:30    |Kennenlernen|Conni und Mats|
 |14:00    |||
 |14:30    |||
 |15:00    |||
@@ -19,7 +19,7 @@
 
 |Zeit     |Thema      |Referent:in  |
 |:---     |:---       |:---         |
-|10:00    |### Refresh für die Prüfung||
+|10:00    |Refresh für die Prüfung||
 |10:30    |||
 
 ## Material
