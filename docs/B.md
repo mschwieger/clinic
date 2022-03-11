@@ -14,7 +14,7 @@
 
 |Zeit     |Thema      |Referent:in  |
 |:---     |:---       |:---         |
-|10:00    |Refresh für die Prüfung||
+|10:00    |Refresh für die Prüfung|Conni und Mats|
 |10:30    |||
 
 ## Material
