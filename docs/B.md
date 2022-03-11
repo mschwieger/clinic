@@ -4,16 +4,11 @@
 
 |Zeit     |Thema      |Referent:in  |
 |:---     |:---       |:---         |
-|13:30    |Kennenlernen|Conni und Mats|
-|14:00    |||
-|14:30    |||
-|15:00    |||
-|15:30    |||
-|16:00    |||
-|16:30    |||
-|17:00    |||
-|17:30    |||
-|18:00    |||
+|13:30    |Kennenlernen / Vorstellungsrunde|Conni und Mats|
+|14:00    |"Ich sehe was, was Du nicht siehst!"|Conni|
+|16:00    |Pause|
+|16:30    |"Wir müssen reden!"|Mats|
+|18:00    |Ende||
 
 ## Sonntag
 
