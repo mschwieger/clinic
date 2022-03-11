@@ -4,6 +4,10 @@ Hier findest du die gesammelten Informationen zum diesjährigen Lehrgang.
 
 ## Wann?
 
+!!! warning "Wichtig!"
+
+    Wir **BEGINNEN** um 10 Uhr. Die Haupttür ist ab dann verschlossen, damit keine fremden Personen in das Schulgebäude kommen.
+
 Samstag 12.03.2022 10-18 Uhr
 
 | Uhrzeit       | **Thema**                             | **Vortragende**                                                                                         |
@@ -32,16 +36,15 @@ Der Schulhof ist zum Parken geöffnet, versucht bitte trotzdem mit dem Fahrrad o
 
 
 ## Wichtiges zu den Hygienemaßnahmen vor Ort
-
--   Der gesamte Lehrgang wird unter **2G++** Bedingungen stattfinden. Auch Geboosterte müssen sich also Testen lassen.
-
--   Ein Test am Samstag genügt. Ein Test am Sonntag ist empfohlen.
-
--   Tests von Freitagabend sind für das Wochenende ausreichend, Test von Freitagmorgen reichen nicht.
+ 
+- Der gesamte Lehrgang wird unter **2G++** Bedingungen stattfinden. Auch Geboosterte müssen sich also Testen lassen.
+   - Auch als "frisch" Genesener ist ein Test nötig #varianten
+- Ein Test am Samstag genügt. ***Ein Test am Sonntag ist empfohlen.***
+   - Tests von Freitagabend sind für das Wochenende ausreichend, Test von Freitagmorgen reichen nicht.
 
 -   In der näheren Umgebung (10-15 Min zu Fuß) befinden sich mehrere **Testzentren**, wir würden euch aber empfehlen den Test schon unterwegs zu machen.
 
--   Wir werden dein **Impfzertifikat** vor Ort überprüfen. Bring also bitte dein Mobiltelefon/deinen Impfpass mit.
+-   Wir werden dein **Impfzertifikat** ab ca. 09:30 Uhr vor Ort überprüfen. Bring also bitte dein Mobiltelefon/deinen Impfpass mit.
 
 -   Stell dich bitte auf das **Tragen eine Maske** ein. Wir passen uns auf die örtlichen Begebenheiten (Raumgröße, Lüftungsmöglichkeiten etc.) an.
 
