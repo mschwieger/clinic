@@ -4,6 +4,7 @@
 
 |Zeit     |Thema      |Referent:in  |
 |:---     |:---       |:---         |
+|vorher   |siehe Gesamtzeitplan||
 |13:30    |Kennenlernen / Vorstellungsrunde|Conni und Mats|
 |14:00    |"Ich sehe was, was Du nicht siehst!"|Conni|
 |16:00    |Pause|
@@ -15,7 +16,7 @@
 |Zeit     |Thema      |Referent:in  |
 |:---     |:---       |:---         |
 |10:00    |Refresh für die Prüfung|Conni und Mats|
-|10:30    |||
+|11:00   |siehe Gesamtzeitplan||
 
 ## Material
 
