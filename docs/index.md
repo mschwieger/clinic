@@ -1,8 +1,8 @@
 # Lehrgänge 2023
 
 Hier findest du die gesammelten Informationen zu den diesjährigen Lehrgängen.
-| Lehrgang |  Datum  |  
-|---|---|
+| Lehrgang |  Datum  
+|---|---
 | D-Lizenz | 18.02./19.02.2023
 | C-Lizenz | 11.02./12.02.2023
 | B-Mechanics | 11.02./12.02.2023
