@@ -1,36 +1,8 @@
-# B Lehrgang 2022
+# B Lehrgang 2023
 
-## Zeitplan Samstag
+11.02./18.02.2023
 
-|Zeit     |Thema      |Referent:in  |
-|:---     |:---       |:---         |
-|vorher   |siehe Gesamtzeitplan||
-|13:30    |Kennenlernen / Vorstellungsrunde|Conni und Mats|
-|14:00    |"Ich sehe was, was Du nicht siehst!"|Conni|
-|16:00    |Pause|
-|16:30    |"Wir müssen reden!"|Mats|
-|18:00    |Ende||
+## Wo?
+Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
 
-## Sonntag
-
-|Zeit     |Thema      |Referent:in  |
-|:---     |:---       |:---         |
-|10:00    |Refresh für die Prüfung|Conni und Mats|
-|11:00   |siehe Gesamtzeitplan||
-
-## Material
-
-### Regelbuch
-
-Über die [AFSVD Seite!](https://afsvd.de/downloads/)
-
-### Poll Everywhere App
-
-#### Android
-
-[Google Play Store Link](https://play.google.com/store/apps/details?id=com.polleverywhere.mobile)
-
-#### iOS
-
-[App Store Link](https://apps.apple.com/us/app/poll-everywhere/id893375312)
-
+[Sportplatz Kroonhorst](https://www.google.com/maps/place/Sportplatz+Kroonhorst/@53.5936237,9.8482714,17.68z/data=!4m5!3m4!1s0x47b1877819f7c7e1:0x71c7c59cb65fdea1!8m2!3d53.5929143!4d9.8500437)
