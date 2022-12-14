@@ -18,12 +18,12 @@ Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils sta
 ## Material
 
 - Regelbuch
-  - Über die [AFSVD Seite](https://afsvd.de/downloads/)
+    - Über die [AFSVD Seite](https://afsvd.de/downloads/)
 - Kahoot App
-  - Android: [Google Play Store Link](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=de)
-  - iOS: [App Store Link](https://itunes.apple.com/de/app/kahoot-play-create-quizzes/id1131203560?mt=8)
-  - Bookmark: [Kahoot.it](https://kahoot.it/)
+    - Android: [Google Play Store Link](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=de)
+    - iOS: [App Store Link](https://itunes.apple.com/de/app/kahoot-play-create-quizzes/id1131203560?mt=8)
+    - Bookmark: [Kahoot.it](https://kahoot.it/)
 - Poll Everywhere App
-  - Android: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.polleverywhere.mobile)
-  - iOS: [App Store Link](https://apps.apple.com/us/app/poll-everywhere/id893375312)
+    - Android: [Google Play Store Link](https://play.google.com/store/apps/details?id=com.polleverywhere.mobile)
+    - iOS: [App Store Link](https://apps.apple.com/us/app/poll-everywhere/id893375312)
 
