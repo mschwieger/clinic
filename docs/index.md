@@ -1,11 +1,13 @@
 # Lehrgänge 2023
 
 Hier findest du die gesammelten Informationen zu den diesjährigen Lehrgängen.
-| Lehrgang |  Datum  
-|---|---
-| D-Lizenz | 18.02./19.02.2023
-| C-Lizenz | 11.02./12.02.2023
-| B-Mechanics | 11.02./12.02.2023
+| Lehrgang | Datum   |
+|----------|---------|
+| E | 01.04./02.04. und 15.04./16.04.2023 |
+| D | 18.02./19.02.2023 |
+| C | 11.02./12.02.2023 |
+| B | 11.02./12.02.2023 |
+
 
 ## Wo?
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
