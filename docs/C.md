@@ -1,23 +1,8 @@
-# C Lehrgang 2022
+# C Lehrgang 2023
 
-## Zeitplan
+11.02./18.02.2023
 
-### Samstag
+## Wo?
+Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
 
-| **Wann?**   | **Was?**                                             | **Wer?**          |
-| ----------- | ---------------------------------------------------- | ----------------- |
-| 10:00-12:30 | Gemeinsamer Teil                                     | Alle              |
-| 12:30-13:30 | Mittagspause                                         |                   |
-| 13:30-14:30 | Definitionen Spots<br>Strafdurchführung Grundlagen   | Jessy             |
-| 14:45-15:45 | Strafdurchführung Snap, Pass, Lauf, Deadball, Punkte | Jessy             |
-| 16:00-17:00 | Strafen erkennen/Kahoot                              | Jessy und Florian |
-| 17:15-17:45 | Uhr                                                  | Florian           |
-
-### Sonntag
-
-| **Wann?**   | **Was?**                | **Wer?**          |
-| ----------- | ----------------------- | ----------------- |
-| 10:00-10:55 | Wiederholungen/Jeopardy | Jessy und Florian |
-| 11:05-12:30 | Prüfung                 | Jessy und Florian |
-| 12:30-13:30 | Mittagspause            |                   |
-| 13:30-16:00 | Gemeinsames             | Alle              |
+[Sportplatz Kroonhorst](https://www.google.com/maps/place/Sportplatz+Kroonhorst/@53.5936237,9.8482714,17.68z/data=!4m5!3m4!1s0x47b1877819f7c7e1:0x71c7c59cb65fdea1!8m2!3d53.5929143!4d9.8500437)
