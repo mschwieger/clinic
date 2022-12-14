@@ -1,4 +1,4 @@
-# E Lehrgang 2022
+# E Lehrgang 2023
 
 Hier findest du die gesammelten Informationen zum diesjährigen E-Lizenz Lehrgang.
 
@@ -8,10 +8,10 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 
 | Datum          | Uhrzeit       |
 | -------------- | ------------- |
-| Sa. 01.04.2022 | 10:00 - 18:00 |
-| So. 02.04.2022 | 10:00 - 16:30 |
-| Sa. 15.04.2022 | 10:00 - 18:00 |
-| So. 16.04.2022 | 10:00 - 15:30 |
+| Sa. 01.04.2023 | 10:00 - 18:00 |
+| So. 02.04.2023 | 10:00 - 16:30 |
+| Sa. 15.04.2023 | 10:00 - 18:00 |
+| So. 16.04.2023 | 10:00 - 15:30 |
 
 ## Wo?
 
