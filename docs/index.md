@@ -1,51 +1,13 @@
-# Gesamtlehrgang 2022
+# Lehrgänge 2023
 
-Hier findest du die gesammelten Informationen zum diesjährigen Lehrgang.
-
-## Wann?
-
-!!! warning "Wichtig!"
-
-    Wir **BEGINNEN** um 10 Uhr. Die Haupttür ist ab dann verschlossen, damit keine fremden Personen in das Schulgebäude kommen.
-
-Samstag 12.03.2022 10-18 Uhr
-
-| Uhrzeit       | **Thema**                             | **Vortragende**                                                                                         |
-| ------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| ab ca. 09:30   | Check-In (Impfpass, Test)             |                                                                                                    |
-| 10:00 -10:55  | Hallo!<br>Regeländerungen             | Jessy                                                                                                   |
-| 11:05 - 12:30 | Illegale Blocks und persönliche Fouls | Mats                                                                                                |
-| 12:30-13:30   | Mittagspause                          |
-| 13:30 - 18:00 | Lizenzlehrgänge                       | B – Mats & Conni<br>C – Florian & Jessy<br>D –Dave & Simon |
-
-Sonntag 13.03.2022 10-16 Uhr
-
-| Uhrzeit | **Thema** |**Vortragende**|
-| --- | --- | --- |
-| 10:00 -10:55 | Lizenzlehrgänge|B – Mats & Conni<br>C – Florian & Jessy<br>D –Dave & Simon|
-| 11:05 - 12:30 | Prüfungen |
-| 12:30-13:30 | Mittagspause |
-| 13:30 - 16:00 | Gemeinsames | |
-
+Hier findest du die gesammelten Informationen zu den diesjährigen Lehrgängen.
+| Lehrgang |  Datum  |  
+|---|---|
+| D-Lizenz | 18.02./19.02.2023
+| C-Lizenz | 11.02./12.02.2023
+| B-Mechanics | 11.02./12.02.2023
 
 ## Wo?
+Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
 
-Max-Brauer-Schule, [Daimlerstraße 40 in Hamburg-Altona](https://goo.gl/maps/hL1DWZqYLQ16NtzW7)
-
-Der Schulhof ist zum Parken geöffnet, versucht bitte trotzdem mit dem Fahrrad oder dem HVV anzureisen.
-
-
-## Wichtiges zu den Hygienemaßnahmen vor Ort
- 
-- Der gesamte Lehrgang wird unter **2G++** Bedingungen stattfinden. Auch Geboosterte müssen sich also Testen lassen.
-   - Auch als "frisch" Genesener ist ein Test nötig #varianten
-- Ein Test am Samstag genügt. ***Ein Test am Sonntag ist empfohlen.***
-   - Tests von Freitagabend sind für das Wochenende ausreichend, Test von Freitagmorgen reichen nicht.
-
--   In der näheren Umgebung (10-15 Min zu Fuß) befinden sich mehrere **Testzentren**, wir würden euch aber empfehlen den Test schon unterwegs zu machen.
-
--   Wir werden dein **Impfzertifikat** ab ca. 09:30 Uhr vor Ort überprüfen. Bring also bitte dein Mobiltelefon/deinen Impfpass mit.
-
--   Stell dich bitte auf das **Tragen eine Maske** ein. Wir passen uns auf die örtlichen Begebenheiten (Raumgröße, Lüftungsmöglichkeiten etc.) an.
-
--   Die Räume werden zum Ende des Wochenendes von uns allen gemeinsam **gereinigt und desinfiziert**.
+[Sportplatz Kroonhorst](https://www.google.com/maps/place/Sportplatz+Kroonhorst/@53.5936237,9.8482714,17.68z/data=!4m5!3m4!1s0x47b1877819f7c7e1:0x71c7c59cb65fdea1!8m2!3d53.5929143!4d9.8500437)
