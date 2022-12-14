@@ -1,6 +1,7 @@
 # Lehrgänge 2023
 
 Hier findest du die gesammelten Informationen zu den diesjährigen Lehrgängen.
+
 | Lehrgang | Datum   |
 |----------|---------|
 | E | 01.04./02.04. und 15.04./16.04.2023 |
