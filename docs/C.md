@@ -1,6 +1,18 @@
 # C Lehrgang 2023
 
-11.02./18.02.2023
+11.02./12.02.2023
+
+## Zeitplan Samstag 11.02.
+|Zeit	|Thema |
+|-- |-- |
+|9:30	|Regeländerungen|
+|ca. 18:00	|Ende|
+
+## Zeitplan Sonntag 12.02.
+|Zeit	|Thema |
+|-- |-- |
+|10:00	|Beginn|
+|ca. 16:00	|Ende|
 
 ## Wo?
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
