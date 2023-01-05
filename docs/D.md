@@ -2,6 +2,12 @@
 
 18.02./19.02.2023
 
+## Zeitplan
+|Tag	|Zeit |
+|-- |-- |
+|Sa. 18.02.2023	|9:30 - ca. 18:00|
+|So. 19.02.2023	|10:00 - ca. 16:00|
+
 ## Wo?
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
 
