@@ -2,6 +2,10 @@
 
 Hier findest du die gesammelten Informationen zum diesjährigen E-Lizenz Lehrgang.
 
+## Anmeldung
+
+Bitte melde dich [hier online](https://e-anmeldung.afsvhh.de/) an.
+
 ## Wann?
 
 Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
