@@ -5,14 +5,21 @@
 ## Zeitplan Samstag 11.02.
 |Zeit	|Thema |
 |-- |-- |
-|9:30	|Regeländerungen|
-|ca. 18:00	|Ende|
+|9:30	- 10:30   |Regeländerungen|
+|10:45 - 12:45	|Strafdurchführung erweitert|
+|12:45 - 13:30	|Mittagspause|
+|13:30 - 14:30	|Strafdurchführung mit EZ/Punkten|
+|14:45 - 15:30	|Polizei oder Pädagogik? Zum Selbstverständnis des Officiatings.|
+|15:45 - 17:00	|Strafdurchführung Kick|
 
 ## Zeitplan Sonntag 12.02.
 |Zeit	|Thema |
 |-- |-- |
-|10:00	|Beginn|
-|ca. 16:00	|Ende|
+|10:00 - 11:30	|Beginn|
+|11:45 - 13:00	|Prüfung|
+|13:00 - 13:30	|Mittagspause|
+|13:30 - 14:30	|Strafadministration/Kommunikation|
+|14:45 - 16:00	|Referee Mechanics|
 
 ## Wo?
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
