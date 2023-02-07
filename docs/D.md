@@ -2,11 +2,22 @@
 
 18.02./19.02.2023
 
-## Zeitplan
-|Tag	|Zeit |
+## Zeitplan Samstag 11.02.
+|Zeit	|Thema |
 |-- |-- |
-|Sa. 18.02.2023	|9:30 - ca. 18:00|
-|So. 19.02.2023	|10:00 - ca. 16:00|
+|9:45	- 10:45   |Regeländerungen|
+|11:00 - 12:30	|Illegale Blocks und Persönliche Fouls|
+|12:30 - 13:30	|Mittagspause|
+|13:30 - 16:45	|Die Uhr|
+|17:00 - 18:00	|Vortestbesprechung|
+
+## Zeitplan Sonntag 12.02.
+|Zeit	|Thema |
+|-- |-- |
+|10:00 - 11:30	|Kicks|
+|11:30 - 12:00	|Mittagspause|
+|12:00 - 14:00	|Prüfung|
+|14:00 - 16:00	|Mechanics und offene Fragen|
 
 ## Wo?
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
