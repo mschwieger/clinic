@@ -16,12 +16,12 @@
 ## Zeitplan Sonntag 12.02.
 |Zeit	|Thema |
 |-- |-- |
-|9:30 - 10:15	|Wiederholung|
-|10:30 - 11:15	|Uhr|
+|10:00 - 10:40	|Wiederholung|
+|10:45 - 11:30	|Uhr|
 |11:45 - 13:00	|Prüfung|
 |13:00 - 13:30	|Mittagspause|
 |13:30 - 14:30	|Strafadministration/Kommunikation|
-|14:45 - 16:00	|Referee Mechanics (optional)|
+|14:45 - 16:00	|Referee Mechanics|
 
 ## Wo?
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
