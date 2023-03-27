@@ -43,10 +43,10 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 | 10:00 - 10:20 | Orga & Vorstellung                                   | 20m                   | Jessy     |
 | 10:20 - 11:00 | Das Spiel, Definitionen und Schiedsrichterpositionen | 40m                   | Jessy     |
 | 11:00 – 11:15 | PAUSE                                                | 15m                   |           |
-| 11:15 - 13:40 | Regeln und Mechanics rund um den Snap                | 1h 15m                | Mona      |
-| 13:40 – 15:00 | MITTAG                                               | 1h                    |           |
-| 15:00 – 15:45 | Im Aus, Deadball, Uhr anhalten                       | 45m                   | Jessy     |
-| 15:50 – 18:00 | Regeln und Mechanics rund um den Lauf                | 2h 10m                | Mona      |
+| 11:15 - 13:45 | Regeln und Mechanics rund um den Snap                | 1h 30m                | Mona      |
+| 13:45 – 14:45 | MITTAG                                               | 1h                    |           |
+| 14:45 – 15:30 | Im Aus, Deadball, Uhr anhalten                       | 45m                   | Jessy     |
+| 15:45 – 18:00 | Regeln und Mechanics rund um den Lauf                | 2h 15m                | Mona      |
 
 ### Sonntag 02. April 2023
 
