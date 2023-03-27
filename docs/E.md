@@ -48,4 +48,16 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 | 15:00 – 15:45 | Im Aus, Deadball, Uhr anhalten                       | 45m                   | Jessy     |
 | 15:50 – 18:00 | Regeln und Mechanics rund um den Lauf                | 2h 10m                | Mona      |
 
+### Sonntag 02. April 2023
+
+| Zeit          | Thema                                 | Dauer  | Dozent*in |
+| ------------- | ------------------------------------- | ------ | --------- |
+| 10:00 - 11:30 | Blocken                               | 1h 30m | Jessy     |
+| 11:30 – 11:45 | PAUSE                                 | 15m    |           |
+| 11:45 - 13:15 | Regeln und Mechanics rund um den Pass | 1h 30m | Jessy     |
+| 13:15 - 14:15 | MITTAG                                | 1h     |           |
+| 14:15 – 16:00 | Free Kicks                            | 1h 45m | Mona      |
+
+
+
 
