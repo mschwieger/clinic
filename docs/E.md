@@ -27,9 +27,25 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 - Es gibt keine Verpflegung vor Ort, aber viele Möglichkeiten in der Umgebung
 
 
-# Vorbereitung
+## Vorbereitung
 
 -   Es gibt jedes Jahr die sogenannten "Easy Rules", eine vereinfachte Form der Regeln. Hier werden viele Grundlagen recht gut erklärt.
     Dieses PDF und auch das diesjährige Regelbuch kannst du [hier herunterladen](https://afsvd.de/downloads/). 
 -   Nimm dir etwas zu Schreiben mit.
 -   Lade dir bitte “Kahoot!” herunter ([Apple](https://itunes.apple.com/de/app/kahoot-play-create-quizzes/id1131203560?mt=8)/[Android](https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&hl=de)) oder speichere dir [die Seite](https://kahoot.it/) auf dem Handy schon mal als Bookmark. Mit dieser App werden wir interaktive Quizzes mit euch machen.
+
+## Genauer Zeitplan
+
+### Samstag 01. April 2023
+
+| Zeit          | Thema                                                | Dauer                 | Dozent*in |
+| ------------- | ---------------------------------------------------- | --------------------- | --------- |
+| 10:00 - 10:20 | Orga & Vorstellung                                   | 20m                   | Jessy     |
+| 10:20 - 11:00 | Das Spiel, Definitionen und Schiedsrichterpositionen | 40m                   | Jessy     |
+| 11:00 – 11:15 | PAUSE                                                | 15m                   |           |
+| 11:15 - 13:40 | Regeln und Mechanics rund um den Snap                | 1h 15m                | Mona      |
+| 13:40 – 15:00 | MITTAG                                               | 1h                    |           |
+| 15:00 – 15:45 | Im Aus, Deadball, Uhr anhalten                       | 45m                   | Jessy     |
+| 15:50 – 18:00 | Regeln und Mechanics rund um den Lauf                | 2h 10m                | Mona      |
+
+
