@@ -58,6 +58,36 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 | 13:15 - 14:15 | MITTAG                                | 1h     |           |
 | 14:15 – 16:00 | Free Kicks                            | 1h 45m | Mona      |
 
+### Samstag 15. April 2023
+
+| Zeit          | Thema                                                | Dauer                 | Dozent*in |
+| ------------- | ---------------------------------------------------- | --------------------- | --------- |
+| 10:00 - 11:00 | Besprechung Hausaufgabe/Wiederholung                 | 1h                    |           |
+| 11:00 – 18:00 | In Planung                                           |                       |           |
+
+<!--- | Zeit          | Thema                                                | Dauer                 | Dozent*in |
+| ------------- | ---------------------------------------------------- | --------------------- | --------- |
+| 10:00 - 11:00 | Besprechung Hausaufgabe/Wiederholung                          | 1h     |         |
+| 11:00 – 11:15 | PAUSE                                                         | 15m    |         |
+| 11:15 – 12:00 | Raus<br>Period 1: Teams Match Up: Short Passing und OL vs. DL | 45m    |         |
+| 12:00 – 12:55 | Raus <br>Period 2: Teams Match Up: Run Game & PA              | 55m    |         |
+| 12:55 – 13:40 | MITTAG                                                        | 45m    |         |
+| 13:40 – 14:30 | Scrimmage Kicks (draußen)                                     | 50m    |         |
+| 14:30 - 16:00 | Regel 9                                                       | 1h 45m | Matthis |
+| 16:00 – 16:15 | PAUSE                                                         | 15m    |         |
+| 16:15 - 17:15 | Punkte, Antrieb, Verantwortung                                | 1h     | Brian   | -->
+
+
+
+### Sonntag 16. April 2023
+
+| Zeit          | Thema                                 | Dauer  | Dozent*in |
+| ------------- | ------------------------------------- | ------ | --------- |
+| 10:00 - 12:30 | Wiederholung und Fragen               | 2h 30m |           |
+| 12:30 - 13:30 | MITTAG                                | 1h     |           |
+| 13:30 – 15:30 | Prüfung                               | 2h     |           |
+
+
 
 
 
