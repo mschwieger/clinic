@@ -67,7 +67,7 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 | 10:45 - 11:00 | PAUSE                          | 15m    |           |
 | 11:00 – 12:00 | Punkte, Antrieb, Verantwortung | 1h     | Brian     |
 | 12:00 – 13:00 | Scrimmage Kicks                | 1h     | Jessy     |
-| 13:00 – 14:15 | MITTAG                         | 45m    |           |
+| 13:00 – 14:15 | MITTAG                         | 1h 15m    |           |
 | 14:15 - 15:30 | Scrimmage Begleiten            | 1h 15m |           |
 | 15:30 - 15:45 | PAUSE                          | 15m    |           |
 | 15:45 – 17:45 | Regel 9                        | 2h     | Matthis   |
