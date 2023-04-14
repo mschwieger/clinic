@@ -60,22 +60,17 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 
 ### Samstag 15. April 2023
 
-| Zeit          | Thema                                                | Dauer                 | Dozent*in |
-| ------------- | ---------------------------------------------------- | --------------------- | --------- |
-| 10:00 - 11:00 | Besprechung Hausaufgabe/Wiederholung                 | 1h                    |           |
-| 11:00 – 18:00 | In Planung                                           |                       |           |
 
-<!--- | Zeit          | Thema                                                | Dauer                 | Dozent*in |
-| ------------- | ---------------------------------------------------- | --------------------- | --------- |
-| 10:00 - 11:00 | Besprechung Hausaufgabe/Wiederholung                          | 1h     |         |
-| 11:00 – 11:15 | PAUSE                                                         | 15m    |         |
-| 11:15 – 12:00 | Raus<br>Period 1: Teams Match Up: Short Passing und OL vs. DL | 45m    |         |
-| 12:00 – 12:55 | Raus <br>Period 2: Teams Match Up: Run Game & PA              | 55m    |         |
-| 12:55 – 13:40 | MITTAG                                                        | 45m    |         |
-| 13:40 – 14:30 | Scrimmage Kicks (draußen)                                     | 50m    |         |
-| 14:30 - 16:00 | Regel 9                                                       | 1h 45m | Matthis |
-| 16:00 – 16:15 | PAUSE                                                         | 15m    |         |
-| 16:15 - 17:15 | Punkte, Antrieb, Verantwortung                                | 1h     | Brian   | -->
+| Zeit          | Thema                          | Dauer  | Dozent*in |
+| ------------- | ------------------------------ | ------ | --------- |
+| 10:00 - 10:45 | Fragen/Wiederholung            | 45m    |           |
+| 10:45 - 11:00 | PAUSE                          | 15m    |           |
+| 11:00 – 12:00 | Punkte, Antrieb, Verantwortung | 1h     | Brian     |
+| 12:00 – 13:00 | Scrimmage Kicks                | 1h     | Jessy     |
+| 13:00 – 14:15 | MITTAG                         | 45m    |           |
+| 14:15 - 15:30 | Scrimmage Begleiten            | 1h 15m |           |
+| 15:30 - 15:45 | PAUSE                          | 15m    |           |
+| 15:45 – 17:45 | Regel 9                        | 2h     | Matthis   |
 
 
 
