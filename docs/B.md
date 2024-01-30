@@ -1,8 +1,8 @@
-# B Lehrgang 2023
+# B Lehrgang 2024
 
-11.02./12.02.2023
+16./17.03.2024
 
-## Zeitplan Samstag 11.02.
+<!-- ## Zeitplan Samstag 11.02.
 |Zeit	|Thema |
 |-- |-- |
 |9:30	- 10:30   |Regeländerungen|
@@ -20,9 +20,10 @@
 |12:30 - 13:15	|Overtime|
 |13:15 - 14:00	|Mittagspause|
 |14:00 - 14:45	|Strafadministration/Kommunikation|
-|15:00 - 16:00	|Referee Mechanics|
+|15:00 - 16:00	|Referee Mechanics| -->
 
 ## Wo?
+
 Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
 
 [Sportplatz Kroonhorst](https://www.google.com/maps/place/Sportplatz+Kroonhorst/@53.5936237,9.8482714,17.68z/data=!4m5!3m4!1s0x47b1877819f7c7e1:0x71c7c59cb65fdea1!8m2!3d53.5929143!4d9.8500437)
