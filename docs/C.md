@@ -1,6 +1,6 @@
-# C Lehrgang 2024
+# C Lehrgang 2025
 
-02.03./03.03.2024
+22./23. Februar 2025
 
 <!-- ## Zeitplan Samstag 11.02.
 |Zeit	|Thema |
@@ -25,6 +25,6 @@
 
 ## Wo?
 
-Alle Lehrgänge finden in den neuen Schulungsräumen der Hamburg Blue Devils statt.
+Der Lehrgang finden in den Schulungsräumen der Hamburg Blue Devils statt. Der Parkplatz steht samstags nicht zur Verfügung.
 
 [Sportplatz Kroonhorst](https://www.google.com/maps/place/Sportplatz+Kroonhorst/@53.5936237,9.8482714,17.68z/data=!4m5!3m4!1s0x47b1877819f7c7e1:0x71c7c59cb65fdea1!8m2!3d53.5929143!4d9.8500437)

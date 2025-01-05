@@ -1,4 +1,4 @@
-# E Lehrgang 2024
+# E Lehrgang 2025
 
 Hier findest du die gesammelten Informationen zum diesjährigen E-Lizenz Lehrgang.
 
@@ -8,19 +8,21 @@ Beachte bitte, dass du an allen 4 Terminen teilnehmen musst!
 
 | Datum          | Uhrzeit       |
 | -------------- | ------------- |
-| Sa. 17.02.2024 | 10:00 - 18:00 |
-| So. 18.02.2024 | 10:00 - 16:00 |
-| Sa. 02.03.2024 | 10:00 - 18:00 |
-| So. 03.03.2024 | 10:00 - 16:00 |
+| Sa. 08.02.2025 | 10:00 - 18:00 |
+| So. 09.02.2025 | 10:00 - 16:00 |
+| Sa. 15.02.2025 | 10:00 - 18:00 |
+| So. 16.02.2025 | 10:00 - 16:00 |
 
 ## Wo?
+
+Der Lehrgang finden in den Schulungsräumen der Hamburg Blue Devils statt. Der Parkplatz steht samstags nicht zur Verfügung.
 
 [Sportplatz Kroonhorst](https://www.google.com/maps/place/Hamburg+Blue+Devils/@53.5938851,9.8498219,16.06z/data=!4m5!3m4!1s0x0:0xcfac1eb09bcfa201!8m2!3d53.5928715!4d9.8495544)
 
 ## Organisatorisches
 
 -   Zu Saisonbeginn muss die Mitgliedschaft in einem Hamburger Verein nachgewiesen werden.
--   Es gibt keine Verpflegung vor Ort, aber viele Möglichkeiten in der Umgebung
+-   Es gibt keine Verpflegung vor Ort, aber Möglichkeiten in der Umgebung
 
 ## Vorbereitung
 
